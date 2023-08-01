@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: rgb(14, 207, 72);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+}
+
+body{
+    background-color: rgba(198, 250, 209, 0.705);
+}
