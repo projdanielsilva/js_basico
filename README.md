@@ -12,3 +12,6 @@ https://projdanielsilva.github.io/js_basico/aula.03/aula3.html
 ## aula IMC :
 https://projdanielsilva.github.io/js_basico/imc/imc.html
 
+## aula Tabuada :
+https://projdanielsilva.github.io/js_basico/tabuada/index.html
+
