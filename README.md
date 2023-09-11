@@ -7,4 +7,4 @@ https://projdanielsilva.github.io/js_basico/declaracaodevariaveis/aula1.html
 https://projdanielsilva.github.io/js_basico/funcoes/funcoes.html
 
 ## aula 3 :
-https://projdanielsilva.github.io/js_basico/aula.03
+https://projdanielsilva.github.io/js_basico/aula.03/aula03.html
