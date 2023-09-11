@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="estilo.css">
+        <title>IMC</title>
+        
+    </head>
+    <body>
+        <div class="forms">
+        <form name="imcForm" id="imcForm" action="#" style="text-align: center ; padding-top: 25px;" >
+            <h1>IMC</h1>
+                <h2>Altura</h2>
+                <br>
+                <input class = "alt" type="text" id="altura" name="altura">
+
+            <p>
+                <h2>Peso</h2> 
+                <br>
+                <input class ="pes" type="text" id="peso" name="peso">
+            </p>
+            <p>
+                <input class= "botao" type="submit" value="Calcular" name="Enviar" onclick="calcular_imc(event)">
+            </p>
+
+            <div id="resul"></div>
+        </form>
+
+        <script src="imc2.js"></script>
+
+    </body>
+</html>

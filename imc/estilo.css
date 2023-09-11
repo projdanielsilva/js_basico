@@ -1,0 +1,47 @@
+body{
+    height: 100vh;
+    background: linear-gradient(
+    90deg,
+    rgb(196, 55, 55) 0%,rgb(133, 42, 42) 100%
+    );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-align: center;
+}
+.forms{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 2rem;
+}
+
+.botao:hover{
+        background-color: rgb(95, 196, 55);
+        color: black;
+}
+
+.altura, .peso{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: red;
+    font-size: large;
+    font-weight: bold;
+}
+
+.alt, .pes{
+    font-family: 'Roboto Mono', monospace;
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
