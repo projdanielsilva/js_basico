@@ -1,19 +1,26 @@
-<html>
-    <head>
-        <title>Inscrição</title>
-        <script src="funcao.js"></script>
-    </head>
-<body bgcolor=black>
-    <form>
-       <h2 align=center>Cadastro</h2>
-       <div align=center>
-         <p>
-          <input type="button" value="Digitar Nome" onclick="nome=prompt('Seu Nome', '')">
-          <input type="button" value="Digitar E-mail" onclick="Email=prompt('Email', '')">
-          <input type="button" value="Valor do Saque" onclick="saque=parseInt(prompt('Quanto quer sacar?', ''))">
-          <input type="button" value="Cadastrar" onclick="escrever(this.form.Area)">     
-         </p><textarea rows=10 cols=40 name=Area></textarea>
-       </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/banco.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Inscrição</title>
+    <script src="funcao.js"></script>
+</head>
+<body>
+    <h1 class="title">Cadastro Banco</h1>
+    <form class="form"> 
+        <div>
+            <p class="button">
+                <input class="b1" type="button" value="Digitar Nome" onclick="nome=prompt('Seu Nome','')">
+                <input class="b2" type="button" value="Digitar E-mail" onclick="email=prompt('Email', '')">
+                <input class="b3" type="button" value="Valor do Saque" onclick="saque=parseInt(prompt('Quanto quer sacar?',''))">
+                <input class="b4" type="button" value="Cadastrar" onclick="escrever(this.form.Area)">
+            </p> 
+            <textarea class="text" cols="59,5" rows="10" name="Area"></textarea>
+        </div>
     </form>
 </body>
 </html>
