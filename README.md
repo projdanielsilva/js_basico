@@ -15,3 +15,6 @@ https://projdanielsilva.github.io/js_basico/imc/imc.html
 ## aula Tabuada :
 https://projdanielsilva.github.io/js_basico/tabuada/index.html
 
+## aula Objetos :
+https://projdanielsilva.github.io/js_basico/obj_orientados/Inicio.html
+
