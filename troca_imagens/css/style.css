@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(35, 117, 211);
+}
+h1{
+    text-align: center;
+}
+
+footer{
+    background-color: azure;
+    margin-top: 5%;
+    text-align: center;
+    padding: 10px;
+}
