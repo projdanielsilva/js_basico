@@ -18,3 +18,6 @@ https://projdanielsilva.github.io/js_basico/tabuada/index.html
 ## aula Objetos :
 https://projdanielsilva.github.io/js_basico/obj_orientados/Inicio.html
 
+## Troca Imagens - Messi :
+https://projdanielsilva.github.io/js_basico/troca_imagens/index.html
+
