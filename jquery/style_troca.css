@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('img/messifundo.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.responsivo{
+    width: 100%;
+}
+
+.imgbaixo{
+    margin-bottom: 2px;
+}
+
+/* BOTAO */
+
+.content .text a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.content .text a {
+    display: inline-block;
+    margin-top: 50px;
+    padding: 15px 35px;
+    background: #0b08cf;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border-radius: 40px;
+    transition: 0.3s ease-in-out;
+    margin-bottom: 0;
+}
