@@ -21,3 +21,6 @@ https://projdanielsilva.github.io/js_basico/obj_orientados/Inicio.html
 ## Troca Imagens - Messi :
 https://projdanielsilva.github.io/js_basico/troca_imagens/index.html
 
+## Jquery Messi - Projeto Final :
+https://projdanielsilva.github.io/js_basico/jquery/validacao.html
+
